@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--透明-->
+    <color name="transparent">#00000000</color>
+
+    <!--窗口沉浸栏-->
+    <color name="system_bar_primary">#ffffffff</color>
+
+    <!--默认首页TAB字体颜色-->
+    <color name="tab_text_normal">#212121</color>
+
+
+    <!--多种状态切换的view的字体-->
+    <color name="mutliple_status_text">#9a9a9a</color>
+
+
+
+
+
+</resources>

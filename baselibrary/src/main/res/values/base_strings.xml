@@ -1,0 +1,23 @@
+<resources>
+
+
+    <!--权限控制-->
+    <string name="permission_name_calendar">日历</string>
+    <string name="permission_name_camera">相机</string>
+    <string name="permission_name_contacts">通讯录</string>
+    <string name="permission_name_location">位置信息</string>
+    <string name="permission_name_microphone">麦克风</string>
+    <string name="permission_name_phone">电话</string>
+    <string name="permission_name_sensors">身体传感器</string>
+    <string name="permission_name_sms">短信</string>
+    <string name="permission_name_storage">存储空间</string>
+
+
+    <!--多种状态切换的view-->
+    <string name="mutliple_status_empty">暂时木有内容呀~~</string>
+    <string name="mutliple_status_server_error">数据获取失败(ㄒoㄒ)~~</string>
+    <string name="mutliple_status_loading">加载中&#8230;</string>
+    <string name="mutliple_status_network_error">请检查网络后点击重新加载</string>
+
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--约定==多种状态切换MultipleStatusView的id-->
+    <item name="mBaseStatusView" type="id" />
+
+    <!--约定==拉刷新SmartRefreshLayout的id-->
+    <item name="mBaseRefresh" type="id" />
+
+    <!--约定==需要加载更多RecyclerView的id-->
+    <item name="mBaseRecyclerView" type="id" />
+
+
+</resources>
