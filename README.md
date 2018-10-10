@@ -14,7 +14,7 @@
 * 方便快捷：Activity 或Fragment跟Controller层之间通过监听实现分离，所以在Base类实现之间的约定很灵活，基本只要实现业务逻辑就能完成列表功能<br/>
 
 ### 示例
-在[GankAndroidActivity](https://github.com/luechenying/KotlinVM/blob/master/app/src/main/java/com/android/demo/kotlinvm/ui/gank/GankAndroidActivity.kt)中只需重载这两个方法
+在[GankAndroidActivity](https://github.com/luechenying/KotlinVM/blob/master/app/src/main/java/com/android/demo/kotlinvm/ui/gank/GankAndroidActivity.kt)中只需重写这两个方法
 ```
     override fun getContentData() {
         mViewModel.getGankData("Android")
